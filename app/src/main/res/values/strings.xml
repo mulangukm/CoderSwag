@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CoderSwag</string>
     <string name="this_is_the_background_image">this is the background image</string>
+    <string name="products">Products</string>
+    <string name="this_is_the_product_image">this is the product image</string>
+    <string name="categories">Categories</string>
 </resources>
